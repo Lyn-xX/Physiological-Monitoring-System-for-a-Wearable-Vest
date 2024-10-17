@@ -2,7 +2,7 @@
  * DS3231.c
  *
  *  Created on: Jul 1, 2024
- *      Author: Swaroop
+ *      Author: Fawaaz Sammil
  */
 
 #include "stm32l4xx_hal.h"

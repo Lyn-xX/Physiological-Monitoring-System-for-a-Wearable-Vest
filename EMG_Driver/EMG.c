@@ -1,7 +1,7 @@
 /*
  * EMG.c
  *
- *  Created on: Jun 20, 2024
+ *  Created on: May 29, 2024
  *      Author: Fawaaz Sammil
  */
 #include "stm32l4xx_hal.h"

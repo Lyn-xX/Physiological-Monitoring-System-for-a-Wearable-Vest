@@ -1,9 +1,3 @@
-/*
- * MPU6050.c
- *
- *  Created on: March 20 2024
- *      Author: Fawaaz Sammil
- */
 #include "MPU6050.h"
 #include "stm32l4xx_hal.h"
 

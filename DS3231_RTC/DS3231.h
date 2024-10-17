@@ -1,10 +1,3 @@
-/*
- * DS3231.h
- *
- *  Created on: Jul 1, 2024
- *      Author: Swaroop
- */
-
 #ifndef DS3231_H_
 #define DS3231_H_
 

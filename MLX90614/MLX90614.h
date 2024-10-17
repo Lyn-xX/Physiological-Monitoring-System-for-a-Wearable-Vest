@@ -1,7 +1,4 @@
-/*
- * mlx90614.h
- *
- */
+
 
 #ifndef MLX90614_H_
 #define MLX90614_H_

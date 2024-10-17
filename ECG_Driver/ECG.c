@@ -1,9 +1,3 @@
-/*
- * ECG.c
- *
- *  Created on: Jun 20, 2024
- *      Author: Fawaaz Sammil
- */
 #include "stm32l4xx_hal.h"
 
 extern ADC_HandleTypeDef hadc2;
